@@ -76,7 +76,3 @@ Once all services are running, you can access the application at:
 
 ## Contributing
 Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.
-
----
-
-This README should cover the main aspects of launching and using your fullstack application. Feel free to customize any section to better match the specifics of your repository!
